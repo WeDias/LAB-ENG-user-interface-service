@@ -1,0 +1,3 @@
+from .logs_controller import logs_controller
+from .calculadora_controller import calculadora_controller
+from .index_controller import index_controller
